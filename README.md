@@ -20,7 +20,7 @@ Ensure you have the following installed:
 ### Setup Guide
 ```sh
 # Clone the Repository
-git clone https://github.com/yourusername/SYNA.git
+git clone https://github.com/udayydogra/syna.git
 cd SYNA
 
 # Create a Virtual Environment (Optional)
